@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻 About Me
 🎓 I'm a Computer Engineering Student at Delhi Technological University.\
-💡 Interested in working alongside like minded people enthusiastic about Data Science, ML, AI or developing cutting edge tech.\
-🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms, Data Science, ML, AI and System Design.\
+💡 Interested in working with like-minded people enthusiastic about Data Science, ML, AI, or cutting-edge tech development.\
+🌱 I'm on track to enhancing my knowledge about Data Structures and Algorithms, Data Science, ML, AI, and System Design.\
 ⚡ In my free time, I pursue Food Blogging and Graphic Designing as side hustles.\
-💬 Feel free to reach out to me for some interesting discussion about advancements in technology.\
-✉️ You can reach out to me via email at mauryakailash1@gmail.com.
+💬 Feel free to reach out to me for some interesting discussion about technological advancements.\
+✉️ You can reach out to me via email at kailashwork1@gmail.com.
 
 ### 🛠 Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
