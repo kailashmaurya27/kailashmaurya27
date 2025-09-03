@@ -1,37 +1,105 @@
-### **Hello, I'm Kailash Maurya** 👋
+<div align="center">
+  
+# Hi there, I'm Kailash Maurya 👋
 
-### 👨🏻‍💻 About Me
-🎓 I'm a Computer Engineering Student at Delhi Technological University.\
-💡 Interested in working with like-minded people enthusiastic about Data Science, ML, AI, or cutting-edge tech development.\
-🌱 I'm on track to enhancing my knowledge about Data Structures and Algorithms, Data Science, ML, AI, and System Design.\
-⚡ In my free time, I pursue Food Blogging and Graphic Designing as side hustles.\
-💬 Feel free to reach out to me for some interesting discussion about technological advancements.\
-✉️ You can reach out to me via email at kailashwork1@gmail.com.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailashmaurya27)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kailashwork1@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/gubbysbyte?label=Follow&style=for-the-badge)](https://github.com/kailashmaurya27)
 
-### 🛠 Languages and Tools
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=adobe-xd)&nbsp;
+</div>
 
-<!---
-kailashmaurya27/kailashmaurya27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
 
-### 🤝🏻 Want to Connect?
-<a href="https://twitter.com/gubby27">
-  <img align="left" alt="Kailash's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" />
-</a>
-<a href="https://www.linkedin.com/in/kailash-maurya-032898208/">
-  <img align="left" alt="Kailash's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670129.png" />
-</a>
-<a href="https://github.com/kailashmaurya27">
-  <img align="left" alt="Kailash's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
-</a>
+I'm a **Software Engineer** working with expertise in cloud-native networking, observability, and distributed systems. Currently based in Delhi, India, I work on enhancing developer productivity and building scalable network observability solutions.
+
+### 🎯 Quick Facts
+- 🛠️ Tech Stack: Kubernetes, Python, JavaScript, Kotlin, TypeScript
+- 📚 B.Tech Computer Engineering from Delhi Technological University (8.17/10.0)
+- ♟️ Elo enthusiast & open-source contributor
+
+## 💼 Professional Experience
+
+### **Software Development Engineer I** @ Blowtrumpet
+*January 2025 - August 2025 | New Delhi, India*
+
+- 🚀 Enhancing developer productivity through CI/CD improvements and test automation
+- 🔍 Building network observability solutions with focus on microservices
+- 📊 Reduced memory usage by ~15% through performance optimization
+- 🎯 Contributing to open-source projects and community engagement
+
+## 🏗️ Featured Projects & Contributions
+
+### 🌟 **Open Source Contributions**
+- Active contributor to network observability projects
+- Improved documentation and standardized nomenclature for better contributor experience
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+### 🔧 Expertise Areas
+- **Cloud Native:** Kubernetes, eBPF, Service Mesh, Container Networking
+- **Observability:** Distributed Tracing, Metrics, Logging, Performance Profiling
+- **Languages:** Go, Java, Kotlin, Python, TypeScript, C/C++
+- **Tools:** GitHub Actions, Prometheus, Azure Monitor, AWS CloudWatch
+
+## 🌐 Career Journey
+
+```mermaid
+graph LR
+    A[DTU Student<br/>2020-2024] --> B[Internships<br/>Molitics Infomedia<br/>2022-2023]
+    B --> C[SDE I<br/>Blowtrumpet<br/>2024-2025]
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailashmaurya27&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashmaurya27&layout=compact&theme=radical)
+
+</div>
+
+## 🎯 Current Focus
+
+- 🔭 Building cloud-native network observability solutions
+- 🌱 Exploring eBPF for high-performance networking
+- 👯 Contributing to open-source Kubernetes ecosystem
+- 💬 Ask me about distributed systems, cloud networking, or performance optimization
+- 🎤 Preparing technical talks for cloud-native conferences
+
+## 🎮 Beyond Code
+
+When I'm not optimizing systems and building tools, you'll find me:
+- 📚 Reading novels (The Witcher & Harry Potter enthusiast!)
+- 👨‍🍳 Experimenting with culinary adventures
+- 🤝 Volunteering for community causes
+- 🚀 Exploring emerging tech trends
+- ✈️ Attending tech conferences and meetups
+
+---
+
+<div align="center">
+  
+### 📫 Let's Connect!
+
+I'm always open to discussing cloud-native technologies, performance optimization, or collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/kailashmaurya27)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:kailashwork1@gmail.com)
+
+*"Building the future of cloud networking, one commit at a time"* 🚀
+
+</div>
