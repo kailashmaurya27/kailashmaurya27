@@ -65,8 +65,8 @@ graph LR
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailashmaurya27&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailashmaurya27&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashmaurya27&layout=compact&theme=radical)
 
