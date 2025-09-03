@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailashmaurya27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kailashwork1@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/gubbysbyte?label=Follow&style=for-the-badge)](https://github.com/kailashmaurya27)
+[![GitHub followers](https://img.shields.io/github/followers/kailashmaurya27?label=Follow&style=for-the-badge)](https://github.com/kailashmaurya27)
 
 </div>
 
